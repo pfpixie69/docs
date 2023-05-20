@@ -16,7 +16,7 @@ intro: '[Plumbing] Final steps in database creation.'
 redirect_from:
   - /code-security/codeql-cli/manual/database-finalize
 ---
-
+codeql database trace-command [--threads=<num>] [--ram=<MB>] [--extractor-option=<extractor-option-name=value>] <options>... -- <database> <command>...
 
 <!-- Content after this section is automatically generated -->
 
